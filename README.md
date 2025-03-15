@@ -1,3 +1,5 @@
+# Introduction
+
 This repository is a demo project showcasing API testing using [Playwright](https://playwright.dev/). It includes a collection of automated tests designed to interact with and validate responses from the [Airport Gap API](https://airportgap.com/), an API that provides information about various airports around the world.
 
 ## Getting Started
