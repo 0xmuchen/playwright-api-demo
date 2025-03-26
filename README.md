@@ -7,7 +7,7 @@ This repository is a demo project showcasing API testing using [Playwright](htt
 1. Clone this repository:
 
 ```shell
-    git clone https://github.com/AlexKalyna/airportgap-api-playwright-demo.git
+    git clone https://github.com/0xmuchen/airportgap-api-playwright-demo.git
 ```
 
 2. Install the dependencies:
